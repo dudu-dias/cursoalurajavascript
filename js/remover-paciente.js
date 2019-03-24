@@ -8,7 +8,6 @@ tabela.addEventListener("dblclick",function(event){
 
 
 
-
 //paciente.forEach(function(paciente){
 //      paciente.addEventListener("dblclick", function(){
 //      this.remove();
